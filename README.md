@@ -12,7 +12,7 @@
   
 ## Feedback
 
-If you have any suggestions for the projects I have developed in the learning phase, I'd be happy to hear them https://twitter.com/alicangunduzdev
+If you have any suggestions for the projects I have developed in the learning phase, I'd be happy to hear them 📨 hi@alicangunduz.dev
   
 ## in 99 days
 
