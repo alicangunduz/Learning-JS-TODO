@@ -1,8 +1,4 @@
 
-## Demo
-
-https://project.alicangunduz.dev/learning/firstTodo/
-  
 ## Features
 
 - Add Task
