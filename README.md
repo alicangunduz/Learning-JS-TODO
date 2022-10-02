@@ -10,6 +10,7 @@
 ## 📦 My other learning projects are
 - [Slider](https://github.com/alicangunduz/Learning-JS-Slider)
 - [Booking](https://github.com/alicangunduz/Learning-JS-Booking)
+- [Calculator](https://github.com/alicangunduz/Learning-JS-Calculator)
 
 ## 🛰️ Feedback
 
